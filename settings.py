@@ -1,1 +1,1 @@
-THEME = "system-default"
+THEME = "dark"
